@@ -7,24 +7,30 @@
 ## Test Automation Framework Selenium Java with TestNG building by Anh Tester
 
 🔆 **SOME FEATURES IN FRAMEWORK**
-
-1. Run the parallel test case
-2. Read Config from Properties file
-3. Extent Report
-4. Allure Report
-5. Send Mail after the run test (Report information and HTML file attachment)
-6. Write Log to file
-7. Record video and Screenshot test case
-8. Read data test from Excel file (xlsx, csv, json,...)
-9. Base function in the package: utils, helpers
-10. Read data test from Json file
-11. Main Keyword: WebUI (call common function)
-12. Sample test all function in WebUI keyword
-13. Send message/report to Telegram Bot
-14. Run Selenium Grid (remote)
-15. Use DataFaker and JavaFaker to generate data
-16. Retry Failed Test in TestNG with IRetryAnalyzer and IAnnotationTransformer
-17. Javadoc for this source
+Với dòng Tivi Samsung Hotel
+1. Thực hiện mở Developer Mode bằng remote theo thứ tự (Mute + Lên + Xuống + OK)
+2. Sẽ hiển thị Developer Mode như hình
+3. Chọn H.Browser Solution -> Chọn URL Launcher Setting -> Hiển thị input link
+4. Nhập link để build App (Ví dụ: http:/ipbasevn/HoTramBenThanh)
+5. Sau đó bấm OK
+6. Chờ đợi build App
+7. 
+8. Read Config from Properties file
+9. Extent Report
+10. Allure Report
+11. Send Mail after the run test (Report information and HTML file attachment)
+12. Write Log to file
+13. Record video and Screenshot test case
+14. Read data test from Excel file (xlsx, csv, json,...)
+15. Base function in the package: utils, helpers
+16. Read data test from Json file
+17. Main Keyword: WebUI (call common function)
+18. Sample test all function in WebUI keyword
+19. Send message/report to Telegram Bot
+20. Run Selenium Grid (remote)
+21. Use DataFaker and JavaFaker to generate data
+22. Retry Failed Test in TestNG with IRetryAnalyzer and IAnnotationTransformer
+23. Javadoc for this source
 
 ### ✳️ **SYSTEM REQUIREMENTS**
 
