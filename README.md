@@ -15,7 +15,7 @@ Với dòng Tivi Samsung Hotel
 ![image](https://github.com/tuanddipbase/HoTramBenThanh/blob/main/msg-4076848741-3181.jpg)
 4. Chọn URL Launcher Setting
 ![image](https://github.com/tuanddipbase/HoTramBenThanh/blob/main/msg-4076848741-3182.jpg)
-5. Hiển thị input link
+5. Hiển thị input link và nhập link, sau đó OK
 ![image](https://github.com/tuanddipbase/HoTramBenThanh/blob/main/msg-4076848741-3183.jpg)
 6. 
 7. 
