@@ -17,28 +17,30 @@ Với dòng Tivi Samsung Hotel
 ![image](https://github.com/tuanddipbase/HoTramBenThanh/blob/main/msg-4076848741-3182.jpg)
 5. Hiển thị input link và nhập link, sau đó OK
 ![image](https://github.com/tuanddipbase/HoTramBenThanh/blob/main/msg-4076848741-3183.jpg)
-6. 
+6. Hiển thị loading cài đặt và cài đặt App thành công
+![image](https://github.com/tuanddipbase/HoTramBenThanh/blob/main/msg-4076848741-3199.jpg)
 7. 
-8. Nhập link để build App (Ví dụ: http:/ipbasevn/HoTramBenThanh)
-9. Sau đó bấm OK
-10. Chờ đợi build App
-11. 
-12. Read Config from Properties file
-13. Extent Report
-14. Allure Report
-15. Send Mail after the run test (Report information and HTML file attachment)
-16. Write Log to file
-17. Record video and Screenshot test case
-18. Read data test from Excel file (xlsx, csv, json,...)
-19. Base function in the package: utils, helpers
-20. Read data test from Json file
-21. Main Keyword: WebUI (call common function)
-22. Sample test all function in WebUI keyword
-23. Send message/report to Telegram Bot
-24. Run Selenium Grid (remote)
-25. Use DataFaker and JavaFaker to generate data
-26. Retry Failed Test in TestNG with IRetryAnalyzer and IAnnotationTransformer
-27. Javadoc for this source
+8. 
+9. Nhập link để build App (Ví dụ: http:/ipbasevn/HoTramBenThanh)
+10. Sau đó bấm OK
+11. Chờ đợi build App
+12. 
+13. Read Config from Properties file
+14. Extent Report
+15. Allure Report
+16. Send Mail after the run test (Report information and HTML file attachment)
+17. Write Log to file
+18. Record video and Screenshot test case
+19. Read data test from Excel file (xlsx, csv, json,...)
+20. Base function in the package: utils, helpers
+21. Read data test from Json file
+22. Main Keyword: WebUI (call common function)
+23. Sample test all function in WebUI keyword
+24. Send message/report to Telegram Bot
+25. Run Selenium Grid (remote)
+26. Use DataFaker and JavaFaker to generate data
+27. Retry Failed Test in TestNG with IRetryAnalyzer and IAnnotationTransformer
+28. Javadoc for this source
 
 ### ✳️ **SYSTEM REQUIREMENTS**
 
