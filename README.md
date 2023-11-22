@@ -9,7 +9,7 @@
 🔆 **SOME FEATURES IN FRAMEWORK**
 Với dòng Tivi Samsung Hotel
 1. Thực hiện mở Developer Mode bằng remote theo thứ tự (Mute + Lên + Xuống + OK)
-![image](https://user-images.githubusercontent.com/87883620/161661705-b8706957-5a26-4faf-8ddf-2f9aef78418e.png)
+![image]()
 2. 
 3. Sẽ hiển thị Developer Mode như hình
 4. Chọn H.Browser Solution -> Chọn URL Launcher Setting -> Hiển thị input link
