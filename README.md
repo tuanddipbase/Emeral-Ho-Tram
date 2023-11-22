@@ -12,7 +12,7 @@ Với dòng Tivi Samsung Hotel
 ![image](https://github.com/tuanddipbase/HoTramBenThanh/blob/main/msg-4076848741-3139.jpg)
 2. 
 3. Sẽ hiển thị Developer Mode như hình và Chọn H.Browser Solution -> Chọn URL Launcher Setting -> Hiển thị input link
-![image](https://github.com/tuanddipbase/HoTramBenThanh/blob/main/msg-4076848741-3139.jpg)
+![image](https://github.com/tuanddipbase/HoTramBenThanh/blob/main/msg-4076848741-3181.jpg)
 4. 
 5. Nhập link để build App (Ví dụ: http:/ipbasevn/HoTramBenThanh)
 6. Sau đó bấm OK
