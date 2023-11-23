@@ -1,6 +1,6 @@
-# HoTramBenThanh
+# Emeral Ho Tram
 
-Với dòng Tivi Samsung Hotel
+Build App với dòng Tivi Samsung Hotel
 1. Thực hiện mở Developer Mode bằng remote theo thứ tự (Mute + Lên + Xuống + OK)
 ![image](https://github.com/tuanddipbase/HoTramBenThanh/blob/main/msg-4076848741-3139.jpg)
 2. Sẽ hiển thị Developer Mode như hình và Chọn H.Browser Solution
